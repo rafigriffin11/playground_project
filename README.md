@@ -1,10 +1,13 @@
 Cypress Alerts Test Suite
+
 This test suite contains Cypress tests for interacting with various types of alerts on the DemoQA website. The tests cover handling basic alerts, timer alerts, confirm alerts, and prompt alerts.
 
 Setup
+
 To run these tests, ensure you have Node.js and npm installed on your machine.
 
 Clone this repository to your local machine:
+
 bash
 Copy code
 git clone <repository-url>
